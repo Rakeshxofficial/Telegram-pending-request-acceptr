@@ -3,7 +3,7 @@ from pyrogram import Client, errors
 # Your API credentials
 API_ID = 29737595
 API_HASH = "b35140b7172a12ba745587952560e4da"
-CHANNEL_ID = -1002029243830  # Your Channel ID
+CHANNEL_ID = -1001835680962  # Your Channel ID
 
 # Initialize Pyrogram client
 app = Client("my_userbot", api_id=API_ID, api_hash=API_HASH)
